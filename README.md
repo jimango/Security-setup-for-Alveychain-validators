@@ -52,7 +52,7 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-new-sudo-enable
 
 <i>(this is for 22.04 Ubuntu, but its still valid for 20.04 Ubuntu with my explaination above)</i>
 
-Remember to user Ubuntu 20.04 for setting up the server
+Remember to user Ubuntu 20.04 server when setting up the server.
 <br>
 <br>
 <br>
