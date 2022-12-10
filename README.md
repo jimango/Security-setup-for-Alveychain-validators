@@ -1,4 +1,4 @@
-# Server-security-setup-for--Alveychain-validators
+# Security-setup-for-Alveychain-validators
 Before we set up the AlveyCoin Validator setup as explained in: https://github.com/AlveyCoin/validator
 
 At the Alveychain README docs you can find information how to tighten your securty for the server under Before You Start. There are some links there that is recomended to check out.
