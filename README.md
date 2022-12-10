@@ -71,3 +71,12 @@ https://github.com/AlveyCoin/validator
 
 And please do check the links at the top of their page in the `Before You Start` section, it contains some more info on how to improve the security even further. 
 But these instructions here at my page will have gotten you started with the very basic. I might improve this page with even further instructions later on, to make it easier to get your mind around if you are new to all these things.
+
+
+## If you already installed validator setup using root
+If you already set up the validator setup using root, you must make sure to safely store the keys and info to not loose access to that wallet (if you already transfered money there)
+You will need to do this again using the new user that you have created. Which means it will set up a whole new wallet with new keys (private and public)
+So if make sure to keep control of your investment while setting it up again under the new user.
+There is no easy or recommended way to transfer the root setup onto your new user, you need to start again with the new user.
+
+I will add an explaination on how to finally remove the root installation of the validator setup here soon..
