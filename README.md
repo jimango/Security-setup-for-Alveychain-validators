@@ -1,7 +1,13 @@
 # Security-setup-for-Alveychain-validators
-Before we set up the AlveyCoin Validator setup as explained in: https://github.com/AlveyCoin/validator
+## Notice
+First of all this is an unofficial guide for Alveychain validators, meaning I made this as a community member for easier explaining to all that ask in TG chat.
+There are many other ways to make a server much more secure, but this is some very basic moves to improve the security on a basic level.
 
-At the Alveychain README docs you can find information how to tighten your securty for the server under Before You Start. There are some links there that is recomended to check out.
+## The explaination
+Before we set up the AlveyCoin Validator setup, as explained in: https://github.com/AlveyCoin/validator there are some basic changes we can make to the server to improve the basic security of our server.
+
+In the Alveychain README docs you can find more information how to tighten your securty for the server under `Before You Start`. 
+There are some links there that is recomended to check out.
 
 But the following information at this page will at least get you started with the basics. And hopefully some better understanding before you get on with the rest of understanding the sercutiry layers of running a server.
 
