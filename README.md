@@ -76,7 +76,7 @@ But these instructions here at my page will have gotten you started with the ver
 ## If you already installed validator setup using root
 If you already set up the validator setup using root, you must make sure to safely store the keys and info to not loose access to that wallet (if you already transfered money there)
 You will need to do this again using the new user that you have created. Which means it will set up a whole new wallet with new keys (private and public)
-So if make sure to keep control of your investment while setting it up again under the new user.
+So if make sure to keep control of your investment while setting it up again under the new user that you set up here in the first steps.
 There is no easy or recommended way to transfer the root setup onto your new user, you need to start again with the new user.
 
 I will add an explaination on how to finally remove the root installation of the validator setup here soon..
