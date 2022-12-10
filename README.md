@@ -27,6 +27,10 @@ This will make it safer when taking guidance and advices from others that you ca
 
 ## Why
 The security of this server is important since it will contain the information required to have control of your validator wallet and setup.
+<br>
+<br>
+<br>
+
 
 ## First - User setup:
 In this example we make a user named sammy, you should of course choose some other username that you are comfortable with using.
@@ -45,6 +49,13 @@ If you are able to do all these steps you have set up a new user (which you can 
 This explaination is similar to that you find in pages like, or similar google searches: 
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-new-sudo-enabled-user-on-ubuntu-22-04-quickstart
+
+<i>(this is for 22.04 Ubuntu, but its still valid for 20.04 Ubuntu with my explaination above)</i>
+
+Remember to user Ubuntu 20.04 for setting up the server
+<br>
+<br>
+<br>
 
 
 ## Secondly - Remove access for root to log in remotly:
