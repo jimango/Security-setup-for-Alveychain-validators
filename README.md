@@ -9,12 +9,19 @@ But for setting up the validator you seem to have to do that as root inside the 
 
 Switching from new-user to root is done by the command: 
 
-`su` or `su root`
+`su` or `su root` 
 
 Switching back to the new user is done by:
 
-`su new-user`
-<br>
+`su new-user` 
+
+Maker sure you are in root folder before starting to install the validator.
+
+You get into root folder by running `cd` while being logged in as root:
+
+Type `su` and press Enter, type `cd` and press Enter
+
+Good luck!
 <br>
 <br>
 
