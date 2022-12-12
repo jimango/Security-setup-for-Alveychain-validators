@@ -1,4 +1,23 @@
 # Security-setup-for-Alveychain-validators
+## UPDATE
+For now it seem like we are not able to get the validator active using an other user than root.
+
+`Meaning my below explaination will result in the validator not working properly.` 
+
+I still advice to follow the steps to make a new non-root user and removing remote access to login as root. 
+But for setting up the validator you seem to have to do that as root inside the server. 
+
+Switching from new-user to root is done by the command: 
+
+`su` or `su root`
+
+Switching back to the new user is done by:
+
+`su new-user`
+<br>
+<br>
+<br>
+
 ## Notice
 First of all this is an unofficial guide for Alveychain validators, meaning I made this as a community member for easier explaining to all that ask in TG chat.
 There are many other ways to make a server much more secure, but this is some very basic moves to improve the security on a basic level.
