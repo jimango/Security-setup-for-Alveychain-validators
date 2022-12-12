@@ -2,10 +2,10 @@
 ## UPDATE
 For now it seem like we are not able to get the validator active using an other user than root.
 
-`Meaning my below explaination will result in the validator not working properly.` 
+<b>Meaning my below explainations will result in the validator not working properly.</b> 
 
-I still advice to follow the steps to make a new non-root user and removing remote access to login as root. 
-But for setting up the validator you seem to have to do that as root inside the server. 
+`I still advice to follow the steps to make a new non-root user and removing remote access to login as root. 
+But for setting up the validator you seem to have to do that as root inside the server.`
 
 Switching from new-user to root is done by the command: 
 
