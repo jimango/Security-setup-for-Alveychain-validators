@@ -28,6 +28,8 @@ Good luck!
 <br>
 
 ## Original tutorial below
+THIS TUTORIAL IS OUTDATED. BEFORE RUNNING THESE COMMANDS YOU SHOULD LOGG IN AS ROOT TO THE SERVER, SET UP THE VALIDATOR ACCORDINGLY TO https://github.com/AlveyCoin/validator . AND ONLY AFTER THIS YOU SHOULD SET UP THE NEW USER AND REMOVE DIRECT LOGIN ACCESS FROM ROOT.
+
 
 ## Notice
 First of all this is an unofficial guide for Alveychain validators, meaning I made this as a community member for easier explaining to all that ask in TG chat.
