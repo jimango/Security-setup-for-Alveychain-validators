@@ -27,6 +27,8 @@ Good luck!
 <br>
 <br>
 
+## Original tutorial below
+
 ## Notice
 First of all this is an unofficial guide for Alveychain validators, meaning I made this as a community member for easier explaining to all that ask in TG chat.
 There are many other ways to make a server much more secure, but this is some very basic moves to improve the security on a basic level.
