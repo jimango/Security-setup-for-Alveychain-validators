@@ -21,6 +21,8 @@ You get into root folder by running `cd` while being logged in as root:
 
 Type `su` and press Enter, type `cd` and press Enter
 
+<b>Normally we never install any applications in root folder as a security measure for the server. But since most of you only use the VPS for this validator I guess this could be a solution for the time being.</b>
+
 Good luck!
 <br>
 <br>
