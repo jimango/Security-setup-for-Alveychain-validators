@@ -17,7 +17,7 @@ Switching back to the new user is done by:
 
 Maker sure you are in root folder before starting to install the validator.
 
-You get into root folder by running `cd` while being logged in as root:
+You get into root folder by running <i>cd</i> while being logged in as root:
 
 Type `su` and press Enter, type `cd` and press Enter
 
