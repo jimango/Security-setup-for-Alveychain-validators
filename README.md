@@ -1,6 +1,6 @@
 # Security-setup-for-Alveychain-validators
 ## UPDATE
-For now it seem like we are not able to get the validator active using an other user than root.
+For now it seem like we are not able to get the validator active using any other user than root.
 
 <b>Meaning my below explainations will result in the validator not working properly.</b> 
 
