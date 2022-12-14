@@ -9,6 +9,5 @@ The new instructions also contain the original tutorial to set up the validator.
 
 <br>
 
-<i>Keep in mind that this is a community addition to the original tutorial that you can find at:</i>  
-https://github.com/AlveyCoin/validator
+<i>Keep in mind that this is a community addition to the original tutorial, that you can find at:</i>   https://github.com/AlveyCoin/validator
 
